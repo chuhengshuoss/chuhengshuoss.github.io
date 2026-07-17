@@ -18,7 +18,8 @@ github: chuhengshuoss
 
 short_bio_text_justify: false
 short_bio: >-
-  <p>我的研究方向包括具身智能（Embodied AI）与多模态大模型（Multimodal Large Language Models），并进一步拓展至交互模型（Interaction Models）、流式与实时模型（Streaming &amp; Real-Time Models）以及第一视角智能（Egocentric AI）等方向。</p>
+  <p>我的研究方向包括具身智能（Embodied AI）与多模态大模型（Multimodal Large Language Models）。</p>
+  <p>目前我正关注交互模型（Interaction Models）、流式与实时模型（Streaming &amp; Real-Time Models）以及第一视角智能（Egocentric AI）等方向。</p>
 
 portrait_url: /assets/images/background.jpeg
 portrait_caption: Hengshuo Chu
