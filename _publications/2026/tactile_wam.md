@@ -5,7 +5,7 @@ selected: true
 pub: "arXiv preprint arXiv:2606.26663"
 pub_date: "2026"
 abstract: >-
-  Tactile-WAM integrates tactile sensing into world action models for contact-rich manipulation. Its asymmetric attention mechanism preserves visual predictions while allowing action generation to use tactile information.
+  World action models jointly predict visual futures and actions, but images alone can miss contact events such as slipping, jamming, and subtle misalignment. Tactile-WAM addresses the disruption that naive tactile integration can cause to visual dynamics by using asymmetric attention: video queries cannot access tactile keys, while action queries can. A contact-change-aware bias directs action attention toward tactile information, and supervision of future tactile representations helps preserve action-relevant contact dynamics. On ManiFeel, the full model raises average success from 15.6% to 32.7%; it also achieves 49.2% success across five real-robot tasks.
 authors:
   - Siyu Wu
   - Linjing You
